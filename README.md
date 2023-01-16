@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @btrcardoso, a Computer Science Student!
 - 👀 I’m interested in Back-end Development!
-- 🌱 I’m currently learning Node.js and Express!
+- 🌱 I’m currently learning Java, TypeScript, Node and AdonisJS!
 - 💼 I’m looking for an internship!
-- 📚 I'm learning English by myself!
+- 📚 I'm improving my English every day, studying by myself!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/beatriz-cardoso-471446203/) and [Instagram](https://www.instagram.com/btrcardoso/)
 
 ## Technologies
