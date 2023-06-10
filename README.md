@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @btrcardoso, a Computer Science Student!
 - 👀 I’m interested in Back-end Development
 - 🌱 I’m currently studying Java, JavaScript, TypeScript, Node and AdonisJS
-- 💼 I’m looking for new professional opportunities
 - 📚 I'm improving my English every day, studying by myself!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatriz-cardoso-471446203/) and [Instagram](https://www.instagram.com/btrcardoso/)
+
+_"Seek the Kingdom of God above all else, and live righteously, and He will give you everything you need." - Matthew 6:33_
 
 ## Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40" /> 
