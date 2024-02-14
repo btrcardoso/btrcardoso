@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @btrcardoso, a Computer Science Student!
-- 👀 I’m interested in Back-end Development
-- 🌱 I’m currently studying Java, JavaScript, TypeScript, Node and AdonisJS
+- 👋 Hi, I’m @btrcardoso, a programmer!
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently studying and programming in Java, Grails, Quarkus, JavaScript, TypeScript and React.
 - 📚 I'm improving my English every day, studying by myself!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatriz-cardoso-471446203/) and [Instagram](https://www.instagram.com/btrcardoso/)
 
