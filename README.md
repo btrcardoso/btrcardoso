@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btrcardoso, a programmer!
+- 👋 Hi, I’m @btrcardoso!
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently studying and programming in Java, Grails, Quarkus, JavaScript, TypeScript and React.
 - 📚 I'm improving my English every day, studying by myself!
