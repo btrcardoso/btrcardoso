@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @btrcardoso!
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently studying and programming in Java, Grails, Quarkus, JavaScript, TypeScript and React.
-- 📚 I'm improving my English every day, studying by myself!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beatriz-cardoso-471446203/) and [Instagram](https://www.instagram.com/btrcardoso/)
-
 _"Seek the Kingdom of God above all else, and live righteously, and He will give you everything you need." - Matthew 6:33_
 
 ## Technologies
